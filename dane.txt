@@ -1,0 +1,9 @@
+Najsłynniejszym algorytmem szyfrującym 
+z czasów starożytnych jest szyfr
+ (twórca
+  był Juliusz Cezar). Szyfr ten polegał na zamianie liter z tekstu jawnego na litery 
+  z tekstu tajnego. 
+  Zastępował on poszczególne litery inną literą położoną o trzy miejsca dalej w alfabecie. Dzięki temu szyfrując 
+  słowo „informatyka” otrzymywano  „lqirpdxbnd”. 
+  Odszyfrowywanie takiego tekstu działało w analogiczny 
+  sposób lecz na odwrót. 
